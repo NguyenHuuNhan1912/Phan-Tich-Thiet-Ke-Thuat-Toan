@@ -94,7 +94,7 @@ void NhanhCan(int i, float *pTGT, float *pCT, float *pTLCL, float *pGiaLNTT, int
 	}		
 		
 }
-//Ham do hoa cho mau me hoa la he 1 ti
+//Ham do hoa cho mau me hoa la he 1 ti.
 void TextColor(WORD color){ 
     HANDLE hConsoleOutput;
     hConsoleOutput = GetStdHandle(STD_OUTPUT_HANDLE);
