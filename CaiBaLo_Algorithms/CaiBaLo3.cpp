@@ -72,7 +72,6 @@ void TextColor(WORD color){
     wAttributes &= 0xfff0; wAttributes |= color;
     SetConsoleTextAttribute(hConsoleOutput, wAttributes);
 }
-
 //Ham in thong tin ket qua,xuat phuong an
 void print(DoVat *dsdv, int w, int n){
 	TextColor(3);
