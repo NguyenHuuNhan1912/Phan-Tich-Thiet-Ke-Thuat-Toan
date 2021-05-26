@@ -96,7 +96,6 @@ void print(DoVat *dsdv, int w, int n){
 	}
 	printf(")\n");
 }
-
 int main(){
 	DoVat *dsdv;
 	int n,w;
