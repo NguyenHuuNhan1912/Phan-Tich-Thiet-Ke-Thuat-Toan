@@ -1,16 +1,7 @@
 # ╰❥Thi thực hành phân tích & thiết kế thuật toán💎
+
 * ## Các thuật toán sắp xếp
-
-
-
-|**Các thuật toán sắp xếp đơn giản**|**Các thuật toán sắp xếp phức tạp**|
-|-                                  |                                   |
-||
-||
-||
-
-
-
+ 
 |**Các thuật toán sắp xếp đơn giản**|**Các thuật toán sắp xếp phức tạp**|
 |--------------|--------------|
 |[`Thuật toán sắp xếp chọn`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/seletionSort.cpp)             |[ `Thuật toán sắp xếp nhanh`](//github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/quickSort.cpp)|
