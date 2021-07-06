@@ -17,8 +17,8 @@
 |[`Cái ba lô tham ăn 2`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CaiBaLo2.cpp)                    |[`Cái ba lô nhánh cận 2`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL_Nhanh_Can_2.cpp)                     |[`Cái ba lô qui hoạch động 2`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL2_QHD.cpp)                          |
 |[`Cái ba lô tham ăn 3`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CaiBaLo3.cpp)                    |[`Cái ba lô nhánh cận 3`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL_Nhanh_Can_3.cpp)                     |[`Cái ba lô qui hoạch động 3`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL3_QHD.cpp) 
 
-| td1| td2 | td3|
-|--------------|-------|------|
-| a |d | 2 x 2 |
-| b |e | 3 x 2 |
-| c |f | 4 x 2 |
+|**Kỹ thuật tham ăn**|**Kỹ thuật nhánh cận**| **Kỹ thuật qui hoạch động**|
+|--------------|--------------|--------------|
+| a |d | l |
+| b |e | m |
+| c |f | n |
