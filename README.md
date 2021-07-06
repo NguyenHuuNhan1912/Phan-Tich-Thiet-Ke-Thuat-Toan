@@ -3,13 +3,13 @@
 Các thuật toán sắp xếp đơn giản
 
 
-[--->Thuật toán sắp xếp chọn<---](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/seletionSort.cpp)
+[---> Thuật toán sắp xếp chọn <---](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/seletionSort.cpp)
 
 
-[--->Thuật toán sắp xếp chèn<---](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/insertionSort.cpp)
+[---> Thuật toán sắp xếp chèn <---](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/insertionSort.cpp)
 
 
-[--->Thuật toán sắp xếp nổi bọt<---](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/bubbleSort.cpp)
+[---> Thuật toán sắp xếp nổi bọt <---](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/bubbleSort.cpp)
 
 
 Các thuật toán sắp xếp phức tạp
