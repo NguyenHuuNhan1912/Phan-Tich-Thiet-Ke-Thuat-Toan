@@ -13,5 +13,3 @@
 |[`Cái ba lô tham ăn 3`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CaiBaLo3.cpp)                    |[`Cái ba lô nhánh cận 3`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL_Nhanh_Can_3.cpp)                     |[`Cái ba lô qui hoạch động 3`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL3_QHD.cpp)                          |
 
 
-<img  src = "https://github.com/NguyenHuuNhan1912/NguyenHuuNhan1912/blob/main/i18.png">
-
