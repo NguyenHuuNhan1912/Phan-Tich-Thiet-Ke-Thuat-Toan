@@ -1,5 +1,6 @@
 ╰❥ Thi_Thuc_Hanh_PTTKTT
 
+
 💎Các thuật toán sắp xếp đơn giản💎
 
 
@@ -15,10 +16,10 @@
 💎Các thuật toán sắp xếp phức tạp💎
 
 
-[---Thuật toán sắp xếp nhanh](//github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/quickSort.cpp)
+[---⫸ Thuật toán sắp xếp nhanh](//github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/quickSort.cpp)
 
 
-[---Thuật toán sắp xếp vun đống](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/heapSort.cpp)
+[---⫸ Thuật toán sắp xếp vun đống](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/heapSort.cpp)
 
 
 💎Các bài toán tối ưu cái ba lô💎
