@@ -10,15 +10,9 @@
   
   
   * ## Các kỹ thuật xử lý bài toán tối ưu cái ba lô
-  * 
-|**Kỹ thuật tham ăn** |**Kỹ thuật nhánh cận**|**Kỹ thuật qui hoạch động**|
-|-                    |                      |                           |
-|                    |                     |[`Cái ba lô qui hoạch động 1`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL1_QHD.cpp)                          |
-|                    |                     |[`Cái ba lô qui hoạch động 2`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL2_QHD.cpp)                          |
-|[`Cái ba lô qui hoạch động 3`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL3_QHD.cpp) 
-
+  
 |**Kỹ thuật tham ăn**|**Kỹ thuật nhánh cận**| **Kỹ thuật qui hoạch động**|
 |--------------|--------------|--------------|
-|[`Cái ba lô tham ăn 1`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CaiBaLo1.cpp)|[`Cái ba lô nhánh cận 1`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL_Nhanh_Can_1.cpp)| l |
-|[`Cái ba lô tham ăn 2`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CaiBaLo2.cpp)|[`Cái ba lô nhánh cận 2`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL_Nhanh_Can_2.cpp)|m
-|[`Cái ba lô tham ăn 3`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CaiBaLo3.cpp)|[`Cái ba lô nhánh cận 3`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL_Nhanh_Can_3.cpp)|| n |
+|[`Cái ba lô tham ăn 1`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CaiBaLo1.cpp)|[`Cái ba lô nhánh cận 1`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL_Nhanh_Can_1.cpp)|[`Cái ba lô qui hoạch động 1`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL1_QHD.cpp)|
+|[`Cái ba lô tham ăn 2`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CaiBaLo2.cpp)|[`Cái ba lô nhánh cận 2`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL_Nhanh_Can_2.cpp)|[`Cái ba lô qui hoạch động 2`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL2_QHD.cpp)
+|[`Cái ba lô tham ăn 3`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CaiBaLo3.cpp)|[`Cái ba lô nhánh cận 3`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL_Nhanh_Can_3.cpp)||[`Cái ba lô qui hoạch động 3`](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL3_QHD.cpp)|
