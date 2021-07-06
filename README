@@ -1,14 +1,11 @@
-# Thi_Thuc_Hanh_PTTKTT
+# Thi thực hành phân tích thiết kế thuật toán
 
 1. Các thuật toán sắp xếp căn bản
 
-  + Thuật toán sắp xếp chọn
-  + Thuật toán sắp xếp chèn
-  + Thuật toán sắp xếp nổi bọt
-  + Thuật toán sắp xếp  nhanh
-  + Thuật toán sắp xếp vun đống
+  [1. Thuật toán sắp xếp chọn](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/seletionSort.cpp)
+  [2. Thuật toán sắp xếp chèn](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/insertionSort.cpp)
+  [3. Thuật toán sắp xếp nổi bọt]( https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/bubbleSort.cpp)
+  [4. Thuật toán sắp xếp  nhanh](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/quickSort.cpp)
+  [5. Thuật toán sắp xếp vun đống](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/Sorting_Algorithms/heapSort.cpp)
   
-2. Các bài toán tối ưu 
-  + Cái ba lô 1 
-  + Cái ba lô 2
-  + Cái ba lô 3
+[2. Các bài toán tối ưu](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/tree/master/CaiBaLo_Algorithms)
