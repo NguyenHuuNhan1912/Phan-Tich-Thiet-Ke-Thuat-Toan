@@ -60,3 +60,4 @@
 
 [---⫸ Cái ba lô qui hoạch động 3](https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT/blob/master/CaiBaLo_Algorithms/CBL3_QHD.cpp)
  
+![alt tag](https://github.com/NguyenHuuNhan1912/NguyenHuuNhan1912/blob/main/i18.png)
